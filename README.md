@@ -21,5 +21,8 @@ yarn dev
 - next
 - typescript
 - ESLint/prettier
-- eslint-plugin-simple-import-sort
-- eslint-plugin-sort-keys-custom-order
+- supabase (Auth/Database/Realtime)
+
+## Reference
+
+[freeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/)
